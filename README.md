@@ -1,2 +1,22 @@
+<HTML>
+<TITLE> 
+Два оружейных гения
+</TITLE>
+<BODY background= "Background_menu.jpg" link = "gray" alink = "gray" vlink = "gray">
+<FONT  FACE= «Arial» size=+1 color=white>
+<CENTER>
+<H1 align= "center">«Выдающиеся герои современной России»</H1>
 
-Kalashnikov and Kalachnikov.htm
+<H2> Калашников и Калачников</H2>
+</CENTER>
+<A HREF= "Kalashnikov.htm" ><IMG align=left border=0 hspace=30 src= "Kalashnikov_menu.jpg"></A>
+<A HREF= "Kalachnikov.htm" ><IMG align=right border=0 hspace=30 src= "Kalachnikov_menu.jpg"></A>
+</FONT>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+<H2 align= "center"><A HREF="Text.docx"> Вся информация с сайта в виде файла .txt </A></H2>
+
+<BR>
+
+</BODY>
+</HTML>
